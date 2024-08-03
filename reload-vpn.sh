@@ -7,7 +7,7 @@
 setup_vpn() {
    echo "Iniciar VPN"
    
-   printf "xxxx" | snx
+   printf "senha" | snx
    echo "VPN rodando..."
    
    sleep 210m
